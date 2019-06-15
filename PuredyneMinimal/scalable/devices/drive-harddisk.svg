@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48" height="48">
+<path id="r1" style="stroke:#000000;fill:#555555;opacity:1;stroke-width:1"
+d="M 44.4,32 C 44.4,32 44.4,39.9 44.4,39.9 L 3.5,39.9 L 3.6,32 C 3.6,32 44.4,32 44.4,32 z" />
+<path id="r2" style="stroke:#000000;fill:#aaaaaa;opacity:1;stroke-width:1"
+d="M 38.3,8.2 L 44.5,31.8 C 44.5,31.8 3.5,31.8 3.5,31.8 L 9.8,8.2 C 9.8,8.2 38.3,8.2 38.3,8.2 z" />
+<rect id="r3" style="stroke:#000000;fill:#aaaaaa;opacity:1;stroke-width:1" width="7" height="4" x="22.1" y="34" ry="0" rx="0" />
+<rect id="r4" style="stroke:#000000;fill:#aaaaaa;opacity:1;stroke-width:1" width="9" height="4" x="31.3" y="34" ry="0" rx="0" />
+<!-- Jakub Steiner, Lapo Calamandrei -->
+</svg>
+

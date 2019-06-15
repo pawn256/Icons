@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48" height="48">
+<rect id="a" style="fill:#D62839;stroke:#000000;opacity:1;stroke-width:1" width="27" height="38" x="3.5" y="4.5"/>
+<path id="b" style="fill:#555555;stroke:#000000;opacity:1;stroke-width:1" d="M 3.7,4.5 L 23,4.5 L 23,34.2 L 3.7,42.2 L 3.7,4.5 z"/>
+<path id="c" style="fill:#ff0000;stroke:#000000;opacity:1;stroke-width:1"
+d="M 33.5,14.5 L 33.5,20.5 L 44.5,20.5 L 44.5,31.6 L 33.5,31.6 L 33.5,37.5 L 20.5,26.4 L 33.5,14.5 z"/>
+</svg>
